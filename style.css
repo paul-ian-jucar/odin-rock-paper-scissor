@@ -1,0 +1,54 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #212529;
+}
+
+.container {
+    background-color: #6c757d;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.title h2{
+    margin-bottom: 6px;
+}
+
+h4{
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+p {
+   margin-bottom: 12px; 
+}
+
+hr {
+    margin-bottom: 12px;
+}
+
+.scoreboard, a {
+    text-align: center;
+    display: block;
+    background-color: #212529;
+    color: #f8f9fa;
+    padding: 10px 0px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+
+.score-board {
+    width: 50%;
+    background-color: #f8f9fa;
+    margin: 0 auto;
+    padding: 20px;
+}
